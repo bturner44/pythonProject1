@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5aa92e2b-ce84-4340-a45b-04710ac821f9" name="https://www.cmegroup.com/ftp/settle/" url="ftp://ftp.cmegroup.com/pub/settle/stlint">
+        <fileTransfer anonymous="true" rootFolder="/cme/ftp/21/PUB " host="cmegroup.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" showHiddenFiles="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
